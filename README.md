@@ -6,6 +6,9 @@ Express
 React js
 Node js
 
-Open i codespace
+steps to run:
+use the template >
+Open in codespace
+open terminal
 cd frontend 
 npm start
